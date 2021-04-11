@@ -1,0 +1,198 @@
+
+/* typoghraphy */
+.bg-heavy-blue{
+    background-color: #134b55;
+}
+.bg-light-blue{
+    color: #009688;
+
+}
+.bg-dark{
+    background-color: black;
+}
+.bg-secondary{
+    background-color: lightgrey;
+}
+.text-light-blue,.text-hover-light-blue:hover{
+    color: #009688;
+
+}
+.text-heavy-blue,.text-hover-heavy-blue:hover{
+    color:#134b55;
+}
+.text-black{
+    color: black;
+}
+.text-green{
+    color:#6EA000
+}
+.text-muted{
+    color: grey;
+}
+.text-white{
+    color: white;
+}
+.upper-case{
+    text-transform: uppercase;
+}
+.capitalize{
+    text-transform: capitalize;
+}
+.font-bold{
+    font-weight: 600;
+}
+.h6{
+    font-size: 0.5em;
+}
+.h5{
+    font-size: 1em;
+
+}
+.h4{
+    font-size: 1.5em;
+
+}
+.h3{
+    font-size: 2em;
+
+}
+.h2{
+    font-size: 2.5em;
+
+}
+.h1{
+    font-size: 3em;
+    
+}
+
+.text-center{
+    text-align: center;
+}
+.text-start{
+    text-align: start;
+}
+.text-italic{
+    font-style: italic;
+}
+.d-block{
+    display: block;
+}
+.d-flex{
+    display: flex;
+}
+.max-content{
+    width: max-content;
+}
+.relative{
+    position: relative;;
+}
+
+.btn{
+    all: unset;
+    padding: 5px;
+    border-radius: 0.8rem;
+    -webkit-border-radius: 0.8rem;
+    -moz-border-radius: 0.8rem;
+    -ms-border-radius: 0.8rem;
+    -o-border-radius: 0.8rem;
+    cursor: pointer;
+}
+
+.btn.btn-light-blue{
+    color: white;
+    background-color: #009688;
+}
+.btn.btn-heavy-blue{
+    color: white;
+    background-color: #134b55;
+}
+.p-1{
+    padding:  0.5em  ;
+}
+.p-2{
+    padding:  1em  ;
+}
+.p-3{
+    padding:  2em  ;
+}
+.p-4{
+    padding:  4em  ;
+}
+
+.px-1{
+    padding-left:  0.5em  ;
+    padding-right:  0.5em  ;
+}
+.px-2{
+    padding-left:  1em  ;
+    padding-right:  1em  ;
+}
+.px-3{
+    padding-left:  2em  ;
+    padding-right:  2em  ;
+}
+.px-4{
+    padding-left:  4em  ;
+    padding-right:  4em  ;
+}
+.py-1{
+    padding-top:  0.5em  ;
+    padding-bottom:  0.5em  ;
+}
+.py-2{
+    padding-top:  1em  ;
+    padding-bottom:  1em  ;
+}
+.py-3{
+    padding-top:  2em  ;
+    padding-bottom:  2em  ;
+}
+.py-4{
+    padding-top:  4em  ;
+    padding-bottom:  4em  ;
+}
+.m-1{
+    margin:  0.5em  ;
+}
+.m-2{
+    margin:  1em  ;
+}
+.m-3{
+    margin:  2em  ;
+}
+.m-4{
+    margin:  4em  ;
+}
+
+.mx-1{
+    margin-left:  0.5em  ;
+    margin-right:  0.5em  ;
+}
+.mx-2{
+    margin-left:  1em  ;
+    margin-right:  1em  ;
+}
+.mx-3{
+    margin-left:  2em  ;
+    margin-right:  2em  ;
+}
+.mx-4{
+    margin-left:  4em  ;
+    margin-right:  4em  ;
+}
+.my-1{
+    margin-top:  0.5em  ;
+    margin-bottom:  0.5em  ;
+}
+.my-2{
+    margin-top:  1em  ;
+    margin-bottom:  1em  ;
+}
+.my-3{
+    margin-top:  2em  ;
+    margin-bottom:  2em  ;
+}
+.my-4{
+    margin-top:  4em  ;
+    margin-bottom:  4em  ;
+}
